@@ -88,7 +88,7 @@ kiyali.contact()
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="SAS" />
+        <img src="https://img.icons8.com/color/48/000000/sas.png" width="48" height="48" alt="SAS" />
         <br>SAS
     </td>
     <td align="center" width="96">
@@ -109,8 +109,6 @@ kiyali.contact()
     </td>
 </tr>
 </table>
-
-</div>
 
 ## 🎯 Domaines d'expertise
 
