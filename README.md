@@ -6,7 +6,7 @@
 ### 🩺 Data Scientist • Économiste de la santé • MD
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🔬+Passionné+par+l'IA+et+la+santé+publique;📊+Analyse+de+données+%26+Machine+Learning;💡+Toujours+curieux+et+en+quête+d'impact;🌍+Améliorer+la+santé+par+les+données" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%93%AC+Passionn%C3%A9+par+l%27IA+et+la+sant%C3%A9+publique;%F0%9F%93%8A+Analyse+de+donn%C3%A9es+%26+Machine+Learning;%F0%9F%92%A1+Toujours+curieux+et+en+qu%C3%AAte+d%27impact;%F0%9F%8C%8D+Am%C3%A9liorer+la+sant%C3%A9+par+les+donn%C3%A9es" alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Science%20%26%20Health%20Economics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Capsule" />
 
 </div>
 
@@ -74,7 +74,7 @@ kiyali.contact()
         <br>R
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/stata.png" width="48" height="48" alt="Stata" />
+        <img src="https://www.liblogo.com/img-logo/st6092s6b2-stata-logo-stata-domino-data-lab.png" width="48" height="22" alt="Stata" />
         <br>Stata
     </td>
     <td align="center" width="96">
@@ -88,11 +88,11 @@ kiyali.contact()
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/sas.png" width="48" height="48" alt="SAS" />
+        <img src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-blue.transform/width319/image.1685459921715.png" width="48" height="48" alt="SAS" />
         <br>SAS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
+        <img src="https://thumbs.dreamstime.com/b/ic-ne-logo-design-ui-ou-ux-app-de-base-de-donn%C3%A9es-de-sql-96841969.jpg" width="48" height="48" alt="SQL" />
         <br>SQL
     </td>
     <td align="center" width="96">
@@ -100,7 +100,7 @@ kiyali.contact()
         <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="48" height="48" />
         <br>Jupyter
     </td>
     <td align="center" width="96">
@@ -110,7 +110,8 @@ kiyali.contact()
 </tr>
 </table>
 
-## 🎯 Domaines d'expertise
+
+## 🎯 Domaines de compétences
 
 <div align="center">
 
@@ -126,8 +127,8 @@ kiyali.contact()
 
 - 🩺 **Modèle prédictif** pour l'évaluation des risques en santé publique
 - 📊 **Dashboard interactif** pour l'analyse coût-efficacité
-- 🤖 **Pipeline ML** pour le traitement de données médicales
-- 📈 **Outil économétrique** pour l'optimisation des politiques de santé
+- 🤖 **Pipeline ML** pour le traitement de données 
+- 📈 **Outil économétrique** pour l'optimisation des politiques de santé (Effet causal du traitement)
 
 ## 📈 Statistiques GitHub
 
@@ -167,6 +168,7 @@ kiyali.contact()
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Merci+de+visiter+mon+profil+!;Explorons+ensemble+le+pouvoir+des+données+🌟" alt="Outro animée" />
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Merci+de+visiter+mon+profil+%21;Explorons+ensemble+le+pouvoir+des+donn%C3%A9es+%F0%9F%8C%9F" alt="Outro animée" />
+
   </p>
 </div>
