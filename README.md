@@ -6,7 +6,7 @@
 ### 🩺 Data Scientist • Économiste de la santé • MD
 
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🔬+Passionné+par+l'IA+et+la+santé+publique;📊+Analyse+de+données+%26+Machine+Learning;💡+Toujours+curieux+et+en+quête+d'impact;🌍+Améliorer+la+santé+par+les+données" alt="Typing Animation" />
+ [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🔬+Passionné+par+l'IA+et+la+santé+publique;📊+Analyse+de+données+%26+Machine+Learning;💡+Toujours+curieux+et+en+quête+d'impact;🌍+Améliorer+la+santé+par+les+données)](https://git.io/typing-svg)
 </p>
 
 <div align="center">
