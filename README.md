@@ -1,16 +1,164 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Salut, je suis Kiyali Coulibaly
 
-<!--
-**Faskos92/Faskos92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🩺 Data Scientist • Économiste de la santé • MD
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🔬+Passionné+par+l'IA+et+la+santé+publique;📊+Analyse+de+données+%26+Machine+Learning;💡+Toujours+curieux+et+en+quête+d'impact;🌍+Améliorer+la+santé+par+les+données" alt="Typing Animation" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🚀 À propos de moi
+
+```python
+class KiyaliCoulibaly:
+    def __init__(self):
+        self.role = "Data Scientist & Health Economist"
+        self.location = "France 🇫🇷"
+        self.current_focus = [
+            "Économie de la santé",
+            "Machine Learning en santé",
+            "Analyse coût-efficacité",
+            "Modélisation causale"
+        ]
+        self.education = {
+            "Master 2": "Économie de la santé - Université de Lille",
+            "DU": "Data Analytics - Paris 1 Panthéon-Sorbonne",
+            "MD": "Médecine"
+        }
+    
+    def say_hi(self):
+        print("Merci de visiter mon profil ! 🌟")
+```
+
+<div align="center">
+
+## 🛠️ Stack Technologique
+
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+        <br>R
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/stata.png" width="48" height="48" alt="Stata" />
+        <br>Stata
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" width="48" height="48" alt="SAS" />
+        <br>SAS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="Scala" />
+        <br>Scala
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+        <br>Jupyter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+    </td>
+</tr>
+</table>
+
+</div>
+
+## 🎯 Domaines d'expertise
+
+<div align="center">
+
+| 🔬 **Recherche** | 📊 **Analyse** | 🤖 **IA/ML** |
+|:---:|:---:|:---:|
+| Économie de la santé | Analyse statistique | Machine Learning |
+| Modélisation causale | Visualisation de données | Deep Learning |
+| Évaluation médico-économique | Analyse coût-efficacité | NLP médical |
+
+</div>
+
+## 📈 Mes statistiques GitHub
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faskos92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faskos92&layout=compact&langs_count=8&theme=tokyonight&hide_progress=false"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faskos92&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faskos92&theme=tokyo-night&hide_border=true&area=true&custom_title=Graphique%20d'activité%20GitHub" />
+
+</div>
+
+## 🏆 Mes contributions
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Faskos92&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+
+</div>
+
+## 🔥 Projets récents
+
+- 🩺 **Modèle prédictif** pour l'évaluation des risques en santé
+- 📊 **Dashboard interactif** d'analyse coût-efficacité
+- 🤖 **Pipeline ML** pour le traitement de données de santé
+- 📈 **Outils d'économétrie** appliquée à la santé
+
+<div align="center">
+
+## 📱 Restons connectés !
+
+<a href="mailto:fas.coul@yahoo.fr">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/kiyali-coulibaly">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Faskos92&label=Visiteurs&color=0e75b6&style=flat" alt="Profile views" />
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💫 *"Les données racontent des histoires, la statistique les révèle, et l'économie de la santé les transforme en impact."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Merci+de+visiter+mon+profil+%F0%9F%99%8F;N'hésitez+pas+à+explorer+mes+projets+%F0%9F%9A%80;Collaborons+pour+un+impact+positif+%F0%9F%8C%9F" alt="Footer typing" />
+
+</div>
