@@ -9,35 +9,64 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="700">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
 ## 🚀 À propos de moi
 
+<div align="center">
+
+### 💻 Mon profil en code
+
 ```python
 class KiyaliCoulibaly:
     def __init__(self):
-        self.role = "Data Scientist & Health Economist"
-        self.location = "France 🇫🇷"
-        self.current_focus = [
-            "Économie de la santé",
-            "Machine Learning en santé",
-            "Analyse coût-efficacité",
-            "Modélisation causale"
-        ]
-        self.education = {
+        self.nom = "Kiyali Coulibaly"
+        self.role = "Data Scientist & Économiste de la santé"
+        self.localisation = "France 🇫🇷"
+        self.langues = ["Français", "Anglais"]
+        
+        # Formation
+        self.diplomes = {
             "Master 2": "Économie de la santé - Université de Lille",
             "DU": "Data Analytics - Paris 1 Panthéon-Sorbonne",
-            "MD": "Médecine"
+            "Doctorat": "Médecine (MD)"
+        }
+        
+        # Compétences techniques
+        self.langages = ["Python", "R", "SAS", "Scala", "SQL"]
+        self.specialites = [
+            "Machine Learning en santé",
+            "Analyse coût-efficacité", 
+            "Modélisation causale",
+            "Économétrie de la santé"
+        ]
+        
+        # Outils favoris
+        self.outils = {
+            "data_analysis": ["Pandas", "NumPy", "Scikit-learn"],
+            "visualization": ["Matplotlib", "Plotly", "ggplot2"],
+            "economics": ["Stata", "SAS", "R"],
+            "cloud": ["AWS", "Docker"]
         }
     
-    def say_hi(self):
-        print("Merci de visiter mon profil ! 🌟")
+    def objectif_actuel(self):
+        return "Améliorer la santé publique grâce à la data science 🌍"
+    
+    def dire_bonjour(self):
+        print("👋 Salut ! Merci de visiter mon profil GitHub !")
+        print("🚀 Toujours prêt pour de nouveaux défis en data science !")
+
+# Créer une instance
+kiyali = KiyaliCoulibaly()
+kiyali.dire_bonjour()
 ```
+
+</div>
 
 <div align="center">
 
@@ -68,7 +97,7 @@ class KiyaliCoulibaly:
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" width="48" height="48" alt="SAS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SAS" />
         <br>SAS
     </td>
     <td align="center" width="96">
