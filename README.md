@@ -167,7 +167,6 @@ kiyali.contact()
 ### 💫 *"Les données racontent des histoires, la statistique les révèle, et l'économie de la santé les transforme en impact."*
 
 <div align="center">
-  
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Merci+de+visiter+mon+profil+!;Explorons+ensemble+le+pouvoir+des+données+🌟" alt="Outro animée" />
   </p>
