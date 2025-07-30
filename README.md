@@ -1,24 +1,31 @@
 
 <div align="center">
-
-# 👋 Bonjour, je suis Kiyali Coulibaly
+  
+# 👋 Salut, je suis Kiyali Coulibaly
 
 ### 🩺 Data Scientist • Économiste de la santé • MD
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=🌍+Passionné+par+l'IA+et+la+santé+publique;📊+Expert+en+analyse+et+modélisation;🚀+Transformer+la+santé+par+les+données;🤝+Toujours+ouvert+aux+collaborations" alt="Intro animée" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🔬+Passionné+par+l'IA+et+la+santé+publique;📊+Analyse+de+données+%26+Machine+Learning;💡+Toujours+curieux+et+en+quête+d'impact;🌍+Améliorer+la+santé+par+les+données" alt="Typing Animation" />
 </p>
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Data%20Science%20%26%20Health%20Economics&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header capsule" />
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Science%20%26%20Health%20Economics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
 
 ## 🚀 À propos de moi
 
-Je suis un **Data Scientist** et **Économiste de la santé** passionné par l'utilisation des données pour améliorer la santé publique. Avec une formation en médecine (MD) et des compétences avancées en **Machine Learning**, **économétrie** et **analyse coût-efficacité**, je construis des solutions basées sur les données pour répondre aux défis complexes du secteur de la santé.
-
+### 💻 Mon profil en code
 ```python
 class KiyaliCoulibaly:
     def __init__(self):
@@ -56,20 +63,50 @@ kiyali.contact()
 ## 🛠️ Stack Technologique
 
 <table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" /><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=r" alt="R" /><br>R</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=scala" alt="Scala" /><br>Scala</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" alt="SAS" /><br>SAS</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/stata.png" alt="Stata" /><br>Stata</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sql" alt="SQL" /><br>SQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /><br>Jupyter</td>
-  </tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+        <br>R
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/stata.png" width="48" height="48" alt="Stata" />
+        <br>Stata
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="SAS" />
+        <br>SAS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
+        <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+        <br>Jupyter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+    </td>
+</tr>
 </table>
 
 </div>
@@ -127,8 +164,10 @@ kiyali.contact()
 
 ---
 
+### 💫 *"Les données racontent des histoires, la statistique les révèle, et l'économie de la santé les transforme en impact."*
+
 <div align="center">
-  <p><i>"Les données sont des histoires. La science les révèle, et la santé publique les transforme en impact."</i></p>
+  
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Merci+de+visiter+mon+profil+!;Explorons+ensemble+le+pouvoir+des+données+🌟" alt="Outro animée" />
   </p>
