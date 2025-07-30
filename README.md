@@ -5,8 +5,12 @@
 ### 🩺 Data Scientist • Économiste de la santé • MD
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🔬+Passionné+par+l'IA+et+la+santé+publique;📊+Analyse+de+données+%26+Machine+Learning;💡+Toujours+curieux+et+en+quête+d'impact;🌍+Améliorer+la+santé+par+les+données" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌬+Passionné+par+l'IA+et+la+santé+publique;🚊+Analyse+de+données+%26+Machine+Learning;🧡+Toujours+curieux+et+en+quête+d'impact;🏍+Améliorer+la+santé+par+les+données" 
+    alt="Intro animée"
+  />
 </p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
