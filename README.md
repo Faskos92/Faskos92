@@ -8,11 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🔬+Passionné+par+l'IA+et+la+santé+publique;📊+Analyse+de+données+%26+Machine+Learning;💡+Toujours+curieux+et+en+quête+d'impact;🌍+Améliorer+la+santé+par+les+données" alt="Typing Animation" />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+</div>
+
 <p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="700">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Science%20%26%20Health%20Economics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
 
@@ -97,7 +103,7 @@ kiyali.dire_bonjour()
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SAS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="SAS" />
         <br>SAS
     </td>
     <td align="center" width="96">
@@ -188,6 +194,9 @@ kiyali.dire_bonjour()
 
 ### 💫 *"Les données racontent des histoires, la statistique les révèle, et l'économie de la santé les transforme en impact."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Merci+de+visiter+mon+profil+%F0%9F%99%8F;N'hésitez+pas+à+explorer+mes+projets+%F0%9F%9A%80;Collaborons+pour+un+impact+positif+%F0%9F%8C%9F" alt="Footer typing" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Merci+de+visiter+mon+profil+🙏;N'hésitez+pas+à+explorer+mes+projets+🚀;Collaborons+pour+un+impact+positif+🌟" alt="Texte d'accueil animé" />
+</p>
+
 
 </div>
