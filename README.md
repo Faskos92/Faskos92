@@ -43,14 +43,14 @@ class KiyaliCoulibaly:
         
         self.competences = {
             "langages": ["Python", "R", "SQL", "Scala", "SAS"],
-            "économie": ["Analyse coût-efficacité || coût-utilité", "Modélisation", "Evaluation des politiques publiques]
+            "économie": ["Analyse coût-efficacité || coût-utilité", "Modélisation", "Evaluation des politiques publiques"]
         }
     
     def mission(self):
         return "Créer un impact positif en santé grâce à partir des données 🌍"
 
     def contact(self):
-        print("📫 N'hésite pas à me contacter pour collaborer !")
+        print("N'hésite pas à me contacter pour collaborer !")
 
 # Instanciation
 kiyali = KiyaliCoulibaly()
@@ -75,15 +75,6 @@ kiyali.contact()
         <img src="https://www.liblogo.com/img-logo/st6092s6b2-stata-logo-stata-domino-data-lab.png" width="48" height="22" alt="Stata" />
         <br>Stata
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-    </td>
-</tr>
 <tr>
     <td align="center" width="96">
         <img src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-blue.transform/width319/image.1685459921715.png" width="48" height="48" alt="SAS" />
