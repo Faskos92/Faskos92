@@ -6,7 +6,7 @@
 ### 🩺  Économiste de la santé • Medical Doctor
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%93%AC+Passionn%C3%A9+par+l%27IA+et+la+sant%C3%A9+publique;%F0%9F%93%8A+Analyse+de+donn%C3%A9es+%26+Machine+Learning;%F0%9F%92%A1+Toujours+curieux+et+en+qu%C3%AAte+d%27impact;%F0%9F%8C%8D+Am%C3%A9liorer+la+sant%C3%A9+par+les+donn%C3%A9es" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%93%AC+Passionn%C3%A9%27par+la+sant%C3%A9+publique;%F0%9F%93%8A+Analyse+de+donn%C3%A9es+%26;%F0%9F%92%A1+Toujours+curieux+et+en+qu%C3%AAte+d%27impact;%F0%9F%8C%8D+Am%C3%A9liorer+la+sant%C3%A9+par+les+donn%C3%A9es" alt="Typing Animation" />
 </p>
 
 <div align="center">
