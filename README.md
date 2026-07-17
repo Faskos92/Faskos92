@@ -3,7 +3,7 @@
   
 # 👋 Salut, je suis Kiyali Coulibaly
 
-### 🩺 Data Scientist • Économiste de la santé • MD
+### 🩺  Économiste de la santé • Medical Doctor
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%93%AC+Passionn%C3%A9+par+l%27IA+et+la+sant%C3%A9+publique;%F0%9F%93%8A+Analyse+de+donn%C3%A9es+%26+Machine+Learning;%F0%9F%92%A1+Toujours+curieux+et+en+qu%C3%AAte+d%27impact;%F0%9F%8C%8D+Am%C3%A9liorer+la+sant%C3%A9+par+les+donn%C3%A9es" alt="Typing Animation" />
@@ -31,7 +31,7 @@
 class KiyaliCoulibaly:
     def __init__(self):
         self.nom = "Kiyali Coulibaly"
-        self.role = ["Data Scientist", "Économiste de la santé", "MD"]
+        self.role = ["Économiste de la santé", "Medical Doctor"]
         self.localisation = "France 🇫🇷"
         self.langues = ["Français", "Anglais"]
         
@@ -43,13 +43,11 @@ class KiyaliCoulibaly:
         
         self.competences = {
             "langages": ["Python", "R", "SQL", "Scala", "SAS"],
-            "data_science": ["Machine Learning", "Deep Learning", "NLP médical"],
-            "économie": ["Analyse coût-efficacité", "Modélisation causale"],
-            "outils": ["Pandas", "Scikit-learn", "Plotly", "Stata", "AWS", "Docker"]
+            "économie": ["Analyse coût-efficacité || coût-utilité", "Modélisation", "Evaluation des politiques publiques]
         }
     
     def mission(self):
-        return "Créer un impact positif en santé grâce à la data science 🌍"
+        return "Créer un impact positif en santé grâce à partir des données 🌍"
 
     def contact(self):
         print("📫 N'hésite pas à me contacter pour collaborer !")
@@ -115,11 +113,11 @@ kiyali.contact()
 
 <div align="center">
 
-| 🔬 **Recherche** | 📊 **Analyse** | 🤖 **IA/ML** |
-|:-----------------:|:---------------:|:-------------:|
-| Économie de la santé | Analyse statistique | Machine Learning |
-| Modélisation causale | Visualisation de données | Deep Learning |
-| Évaluation médico-économique | Analyse coût-efficacité | NLP médical |
+| 🔬 **Recherche** | 📊 **Analyse** |
+|:-----------------:|:---------------:|
+| Économie de la santé | Analyse statistique |
+| Modélisation c | Visualisation de données |
+| Évaluation médico-économique | Analyse coût-efficacité | 
 
 </div>
 
@@ -127,8 +125,7 @@ kiyali.contact()
 
 - 🩺 **Modèle prédictif** pour l'évaluation des risques en santé publique
 - 📊 **Dashboard interactif** pour l'analyse coût-efficacité
-- 🤖 **Pipeline ML** pour le traitement de données 
-- 📈 **Outil économétrique** pour l'optimisation des politiques de santé (Effet causal du traitement)
+- 📈 **Outil économétrique** pour l'optimisation des politiques de santé 
 
 ## 📈 Statistiques GitHub
 
